@@ -22,7 +22,7 @@
       
   *Review the data exploration - SQL script*: [HERE](https://github.com/huongtxdo/SQL-analyzing-Webtoon/blob/07a6368d288c252df7319bcf1306403974ab1093/solution.md)
 
-![image]()
+![image](https://github.com/huongtxdo/Portfolio/blob/c9ca69221abd104bb08352056c2402ff922d1423/webtoon%20-%20data%20cleaning.png)
 
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
