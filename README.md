@@ -16,6 +16,14 @@
 
 ![image](https://github.com/huongtxdo/vaccine-distribution/blob/a0676e83512cb862f01aae98b576cdb782d00808/Vaccine%20-%20UML.png)
 
+- [x] **SQL** - **Analyzing Webtoon**
+      
+  *Review the data: [HERE](https://github.com/huongtxdo/SQL-analyzing-Webtoon/blob/07a6368d288c252df7319bcf1306403974ab1093/webtoon_originals_en.csv)
+      
+  *Review the data exploration - SQL script*: [HERE](https://github.com/huongtxdo/SQL-analyzing-Webtoon/blob/07a6368d288c252df7319bcf1306403974ab1093/solution.md)
+
+![image]()
+
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
   *Download the Excel file*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/data.xlsx)
