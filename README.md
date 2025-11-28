@@ -29,7 +29,16 @@
   *Review the project*: [HERE](https://github.com/huongtxdo/Global-electricity-production/tree/main)
 
 ![image](/images/Energy_production/global_energy_flow.jpeg)
+
 ![image](/images/Energy_production/country_energy_production.jpeg)
+
+- [x] **R** - **Evaluating Standardaized Testing Metrics in R**
+      
+*Download the dataset*: [HERE](https://github.com/huongtxdo/Evaluating-standardized-testing-metrics-R-/tree/main/data)
+
+  *Review the code*: [HERE](https://github.com/huongtxdo/Evaluating-standardized-testing-metrics-R-/blob/main/multivariate%20statistical%20analysis.R)
+
+![image](images/MSA_testing_metrics/MCA_scores_vs_associatedVariables.png)
 
 - [x] **Python & SQL** - **Vaccine distribution**
       
