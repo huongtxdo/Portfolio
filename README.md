@@ -8,7 +8,7 @@
       
   *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/Jupyter%20Notebook%20solution.ipynb)
 
-![image](https://github.com/huongtxdo/Game-data-anlytics/blob/main/report/user%20retention%20milestones.png)
+![image](https://raw.githubusercontent.com/huongtxdo/Game-data-anlytics/blob/main/report/user%20retention%20milestones.png)
 
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
