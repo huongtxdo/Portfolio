@@ -8,7 +8,7 @@
       
   *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/Jupyter%20Notebook%20solution.ipynb)
 
-![image](https://raw.githubusercontent.com/huongtxdo/Game-data-anlytics/blob/main/report/user%20retention%20milestones.png)
+![image](Gamelytics_retention_milestones.png)
 
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
@@ -28,8 +28,8 @@
 
   *Review the project*: [HERE](https://github.com/huongtxdo/Global-electricity-production/tree/main)
 
-![image](https://github.com/huongtxdo/Global-electricity-production/blob/main/reports/PowerBI%20-%20Global%20energy%20flow.png)
-![image](https://github.com/huongtxdo/Global-electricity-production/blob/main/reports/PowerBI%20-%20Country%20energy%20production.png)
+![image](global_energy_flow.png)
+![image](country_energy_production.png)
 
 - [x] **Python & SQL** - **Vaccine distribution**
       
@@ -37,7 +37,7 @@
       
   *Review the SQL and Python script*: [HERE](https://github.com/huongtxdo/vaccine-distribution/tree/a0676e83512cb862f01aae98b576cdb782d00808/code)
 
-![image](https://github.com/huongtxdo/vaccine-distribution/blob/a0676e83512cb862f01aae98b576cdb782d00808/Vaccine%20-%20UML.png)
+![image](Vaccine_distribution_UML.png)
 
 - [x] **SQL** - **Analyzing Webtoon**
       
