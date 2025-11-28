@@ -24,8 +24,16 @@
 
 ![image](https://github.com/huongtxdo/Portfolio/blob/c9ca69221abd104bb08352056c2402ff922d1423/webtoon%20-%20data%20cleaning.png)
 
+- [x] **Python** - **Game data analytics**
+      
+  *Download the CSV files*: [HERE](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/data)
+      
+  *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/Jupyter%20Notebook%20solution.ipynb)
+
+![image](https://github.com/huongtxdo/Game-data-anlytics/blob/main/report/user%20retention%20milestones.png)
+
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
-  *Download the Excel file*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/data.xlsx)
+  *Download the Excel file*: [HERE](https://github.com/huongtxdo/Game-data-anlytics/tree/main/notebooks)
       
   *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/Jupyter%20Notebook%20solution.ipynb)
