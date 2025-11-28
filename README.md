@@ -20,7 +20,7 @@
       
   *Download the Excel file*: [HERE](https://github.com/huongtxdo/Portfolio/blob/292424ee0525379fb7b36859fdbc992ae4e5444b/Mutual%20fund%20report%20(macro-ebabled).xlsm)
 
-![image](./Excel - ESG front.png)
+![image](Excel_ESG.png)
 
 - [x] **SQL * Power BI** - **Global electricity production**
       
