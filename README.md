@@ -8,7 +8,7 @@
       
   *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/Game-data-anlytics/tree/main/notebooks)
 
-  <img src="/images/Gamelytics/Gamelytics_retention_milestones.jpeg" alt="Gamelytics retention rate for multiple milestones" height="600">
+  <img src="images/Gamelytics/Gamelytics_retention_milestones.jpeg" alt="Gamelytics retention rate for multiple milestones" height="600">
 
 - [x] **SQL * Power BI** - **Global electricity production**
       
@@ -18,7 +18,7 @@
 
   |    |   |
   | ------------- | ------------- |
-  | <img src="/images/Energy_production/global_energy_flow.jpeg" alt="global energy flow" height="600">  | <img src="/images/Energy_production/country_energy_production.jpeg" alt="Interactive energy production for each country" height="600">  |
+  | <img src="images/Energy_production/global_energy_flow.jpeg" alt="global energy flow" height="600">  | <img src="images/Energy_production/country_energy_production.jpeg" alt="Interactive energy production for each country" height="600">  |
 
 - [x] **R** - **Evaluating Standardaized Testing Metrics in R**
       
@@ -32,7 +32,7 @@
       
   *Download the Excel file*: [HERE](https://github.com/huongtxdo/Portfolio/blob/292424ee0525379fb7b36859fdbc992ae4e5444b/Mutual%20fund%20report%20(macro-ebabled).xlsm)
 
-  <img src="/images/ESG/Excel_ESG.jpeg" alt="Overview of ESG funds in Finland" height="600">
+  <img src="images/ESG/Excel_ESG.jpeg" alt="Overview of ESG funds in Finland" height="600">
 
 - [x] **Python & SQL** - **Vaccine distribution**
       
@@ -40,7 +40,7 @@
       
   *Review the SQL and Python script*: [HERE](https://github.com/huongtxdo/vaccine-distribution/tree/a0676e83512cb862f01aae98b576cdb782d00808/code)
 
-  <img src="/images/Vaccine/vaccine_distribution_UML.jpg" alt="UML for vaccine distribution" height="600">
+  <img src="images/Vaccine/vaccine_distribution_UML.jpg" alt="UML for vaccine distribution" height="600">
 
 - [x] **SQL** - **Analyzing Webtoon**
       
@@ -48,7 +48,7 @@
       
   *Review the data exploration - SQL script*: [HERE](https://github.com/huongtxdo/SQL-analyzing-Webtoon/blob/07a6368d288c252df7319bcf1306403974ab1093/solution.md)
 
-  <img src="/images/Webtoon/SQL_webtoon_data_cleaning.jpeg" alt="Data cleaning step for Webtoon dataset" height="600">
+  <img src="images/Webtoon/SQL_webtoon_data_cleaning.jpeg" alt="Data cleaning step for Webtoon dataset" height="600">
 
 - [x] **Python** - **Analyzing Gacha's drop rate - Machine learning project**
       
