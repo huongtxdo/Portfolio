@@ -6,7 +6,7 @@
       
   *Download the CSV files*: [HERE](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/data)
       
-  *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/dropRate_vs_pullTime/blob/71b50178d21d187e1842ea2677f530b58643dbb1/Jupyter%20Notebook%20solution.ipynb)
+  *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/Game-data-anlytics/tree/main/notebooks)
 
   <img src="/images/Gamelytics/Gamelytics_retention_milestones.jpeg" alt="Gamelytics retention rate for multiple milestones" height="600">
 
