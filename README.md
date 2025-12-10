@@ -10,6 +10,10 @@
 
   <img src="images/Gamelytics/Gamelytics_retention_milestones.jpeg" alt="Gamelytics retention rate for multiple milestones" height="600">
 
+    |    |   |
+  | ------------- | ------------- |
+  | <img src="images/Gamelytics/Gamelytics_retention_milestones.jpg"  alt="Gamelytics retention rate for multiple milestones" height="600">  | <img src="images/Gamelytics/Gamelytics_aug2020_daily_cohort_retention.jpg" alt="August 2020 Daily cohorts' retention" height="600">  |
+
 - [x] **SQL * Power BI** - **Global electricity production**
       
   *Download the dataset*: [HERE](https://github.com/huongtxdo/Global-electricity-production/blob/main/global_electricity_production_data.csv)
