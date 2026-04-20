@@ -16,7 +16,7 @@
       
   *Review the Jupyter Notebook solution*: [HERE](https://github.com/huongtxdo/Mobile-game-potential-analysis/tree/main/notebooks)
 
-  <img src="images/Game_potential_DNA_method/DNA_plot.png" alt="DNAs of 3 games (mocked data)" height="600">
+  <img src="images/Game_potential_DNA_method/DNA_plot.png" alt="DNAs of 3 games (mocked data)" height="400">
 
 - [x] **SQL * Power BI** - **Global electricity production**
       
